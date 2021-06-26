@@ -1,4 +1,4 @@
 # ANN-Python-Implementation
-Implementation Backpropagation Algorithm in Python for Basic Level ANN
+Implementation Backpropagation Algorithm for Multi Layer Perceptron in Python
 
 Optimized with basic gradient descent
